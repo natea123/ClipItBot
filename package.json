@@ -1,0 +1,15 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot to learn JS features",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Andrews",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "google-spreadsheet": "^2.0.8"
+  }
+}
